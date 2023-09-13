@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"reviewid","INTEGER","5","5","0"
+"content","STRING","22419","0","0"
